@@ -3,6 +3,9 @@ package com.company;
 import java.io.Serializable;
 import java.util.*;
 
+/**
+ * Monte Carlo Tree Search
+ */
 public class MCTS implements Serializable
 {
 
